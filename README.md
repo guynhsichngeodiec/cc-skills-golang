@@ -132,9 +132,9 @@ These skills are designed as **atomic, cross-referencing units**. A skill may re
 - ⚡ Command available
 - 🧠 Ultrathink automatically
 - ⚙️ Overridable (see doc below)
-- **Description (tok)** — weight of the `description` field from YAML frontmatter, always loaded into Claude's context for skill triggering
-- **SKILL.md (tok)** — weight of the full `SKILL.md` file loaded when the skill triggers
-- **Directory (tok)** — weight of all files in the skill directory (SKILL.md + referenced markdown files)
+- **Description (tok)**: weight of the `description` field from YAML frontmatter, always loaded into Claude's context for skill triggering
+- **SKILL.md (tok)**: weight of the full `SKILL.md` file loaded when the skill triggers
+- **Directory (tok)**: weight of all files in the skill directory (SKILL.md + referenced markdown files)
 
 **General purpose:**
 
